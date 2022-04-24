@@ -18,9 +18,10 @@
 ⚡️ One Page Layout\
 ⚡️ Styled with [Chakra UI](https://chakra-ui.com/)\
 ⚡️ Fully Responsive\
+⚡️ API connections\
 ⚡️ Well organized documentation
 
-To view the site: [**Click Here**](https://real-estate-react-rho.vercel.app/)
+To view the site: **[Click Here](https://real-estate-react-rho.vercel.app/)**
 
 ## How To Use 🔧
 
@@ -56,3 +57,10 @@ $ npm run dev
 - [nprogress](https://www.npmjs.com/package/nprogress) - Allows us to create nice progress bars
 - [react-horizontal-scrolling-menu](https://www.npmjs.com/package/react-horizontal-scrolling-menu) - Allows us to scroll horizontally on our menu component.
 - [react-icons](https://react-icons.github.io/react-icons/) - Icons library
+- [RapidAPI](https://rapidapi.com/apidojo/api/bayut) - API that helps query real estate in UAE
+
+## Deployment 📦
+
+Once you finish your setup. You need to put your website online!
+
+I highly recommend to use [Vercel](https://vercel.com) because it is super easy to deploy **Next.JS** projects.
