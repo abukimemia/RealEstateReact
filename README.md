@@ -1,6 +1,5 @@
+<!-- Project Title -->
 # Real Estate App
-
-![Real Estate](https://i.ibb.co/jTW4bFC/image.png)
 
 <!-- Add buttons here -->
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/abukimemia/RealEstateReact?include_prereleases)
@@ -8,7 +7,10 @@
 ![GitHub issues](https://img.shields.io/github/issues-raw/abukimemia/RealEstateReact)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/abukimemia/RealEstateReact)
 ![GitHub forks](https://img.shields.io/github/forks/abukimemia/RealEstateReact)
+![Website status](https://img.shields.io/website?up_color=blue&url=https%3A%2F%2Freal-estate-react-rho.vercel.app%2F)
 
+<!-- Banner -->
+![Real Estate](https://i.ibb.co/jTW4bFC/image.png)
 
 ## Features
 
