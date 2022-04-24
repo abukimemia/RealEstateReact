@@ -2,6 +2,14 @@
 
 ![Real Estate](https://i.ibb.co/jTW4bFC/image.png)
 
+<!-- Add buttons here -->
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/abukimemia/RealEstateReact?include_prereleases)
+![GitHub last commit](https://img.shields.io/github/last-commit/abukimemia/RealEstateReact)
+![GitHub issues](https://img.shields.io/github/issues-raw/abukimemia/RealEstateReact)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/abukimemia/RealEstateReact)
+![GitHub forks](https://img.shields.io/github/forks/abukimemia/RealEstateReact)
+
+
 ## Features
 
 ⚡️ Modern UI Design + Reveal Animations\
@@ -9,6 +17,32 @@
 ⚡️ Styled with [Chakra UI](https://chakra-ui.com/)\
 ⚡️ Fully Responsive\
 ⚡️ Well organized documentation
+
+To view the site: [**Click Here**](https://real-estate-react-rho.vercel.app/)
+
+## How To Use 🔧
+
+From your command line, first clone RealEstateReact:
+
+```bash
+# Clone the repository
+$ git clone https://github.com/abukimemia/RealEstateReact
+```
+
+```bash
+# Move into the repository
+$ cd RealEstateReact
+```
+
+```bash
+# Install dependencies
+$ npm install
+```
+
+```bash
+# Start app
+$ npm run dev
+```
 
 ## Technologies used 🛠️
 
